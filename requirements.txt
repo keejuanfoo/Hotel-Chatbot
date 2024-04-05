@@ -1,8 +1,0 @@
-pandas==1.5.3
-numpy==1.25.2
-openai==1.14.1
-langchain==0.1.12
-langchain_community==0.0.28
-chromadb==0.4.24
-typing
-tiktoken==0.6.0
